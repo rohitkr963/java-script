@@ -5,9 +5,9 @@ loss=cp-sp;
 if(sp>cp)
 {
     
-    console.log("profit")
+    console.log("profit");
 }
 else{
     
-    console.log("loss")
+    console.log("loss");
 }
