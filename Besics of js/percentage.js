@@ -8,4 +8,4 @@ const sum=a+b+c+d+e;
 
 const per=sum/5;
 
- console.log(per);
+ console.log(per,"%")
