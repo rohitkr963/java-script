@@ -5,5 +5,5 @@ if(a>0)
 }
 else{
     
-    console.log(-a)
+    console.log(-a);
 }
