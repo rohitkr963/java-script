@@ -1,3 +1,3 @@
 let str="Rohit Kumar";
 
-console.log(str.length);
+console.log(str.length)
