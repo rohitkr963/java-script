@@ -5,4 +5,4 @@ let c=a;
 a=b;
 b=c;
 
-console.log("after swap :)",a,b);
+console.log("after swap :)",a,b)
