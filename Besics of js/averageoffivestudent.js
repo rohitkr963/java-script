@@ -5,4 +5,4 @@ const d =90;
 const e =50;
 
 let x=a+b+c+d+e/5;
-console.log(x)
+console.log(x);
