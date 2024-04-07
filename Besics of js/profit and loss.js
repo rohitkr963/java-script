@@ -9,5 +9,5 @@ if(sp>cp)
 }
 else{
     
-    console.log("loss")
+    console.log("loss");
 }
