@@ -1,6 +1,6 @@
 let arr = ["Rohit","Abhishek","Fahad"];
 
-arr.forEach((val)=>
+arr.forEach((val,idx,arr)=>
 {
-    console.log(val.toUpperCase());
+    console.log(val.toUpperCase(),idx,arr);
 });
