@@ -5,4 +5,4 @@ let newarr=arr.reduce((prev,curr) => {
     return prev < curr ? prev : curr;
 })
 
-console.log(newarr)
+console.log(newarr);
