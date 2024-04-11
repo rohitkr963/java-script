@@ -9,4 +9,4 @@ for(let val of marks)
 
 let avg=sum/marks.length
 
-console.log(`the average marks of the student is ${avg}`)
+console.log(`the average marks of the student is ${avg}`);
