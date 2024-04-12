@@ -1,4 +1,4 @@
-let arr = ["Rohit","Abhishek","Fahad"];
+let arr = ["Rohit","Abhishek","Fahad","akhlakh"];
 
 arr.forEach((val,idx,arr)=>
 {
