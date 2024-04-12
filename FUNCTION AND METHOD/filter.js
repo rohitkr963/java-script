@@ -1,4 +1,4 @@
-let arr = [3,2,5,6,7];
+let arr = [3,2,5,6,7,9];
 
 let newArray=arr.filter((val) =>
 {
