@@ -27,7 +27,7 @@ const mul=(a,b) =>
     console.log(a*b);
 };
 
-//we can use here return keyword
+//we can use here return keywords
 
 const mul1=(a,b) =>
 {

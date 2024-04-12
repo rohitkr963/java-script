@@ -1,7 +1,18 @@
-console.log("hello");
-console.log(window);
-alert("hello");
+let h2 =  document.querySelector("h2");
 
- let sss=document.getElementById("rrr");
- console.dir(sss)
- console.log(sss)
+console.dir(h2.innerText);
+
+h2.innerText = h2.innerText + ("FROM APNA COLLEGE STUDENT");
+
+
+
+let divs = document.querySelectorAll(".box");
+
+let idx=1;
+
+for(div of divs)
+{
+    div.innerText=`new unique value ${idx}`;
+    idx++;
+
+}
