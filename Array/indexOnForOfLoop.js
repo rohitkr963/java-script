@@ -5,6 +5,6 @@ let idx=0;
 for(let val of marks)
 {
     console.log(`value of index ${idx}=${val}`);
-    idx++;
+    idx++
 }
 
