@@ -6,7 +6,7 @@ for(let val of item)
 {
     let offer=val/10;
     item[i]=item[i]-offer;
-    console.log(`value after offer = ${item[i]}`)
+    console.log(`value after offer = ${item[i]}`);
     i++;
 }
 
