@@ -32,3 +32,12 @@ console.log(para.getAttribute("class","newclass"));
 
 let newBtn=document.createElement("button")
 console.log(newBtn)
+
+
+
+let newbtn=document.createElement("newbtn");
+newbtn.innerText="click me";
+
+newbtn.style.color="white";
+newbtn.style.background="red";
+
