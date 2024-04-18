@@ -4,5 +4,5 @@ if(a%5==0||a%3==0)
     console.log("divisible");
 }
 else{
-    console.log("not divisible");
+    console.log("not divisible")
 }
