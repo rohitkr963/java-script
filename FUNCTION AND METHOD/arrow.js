@@ -8,7 +8,7 @@ function MyFunction(a,b)
 //    arrow sum                                                 //modern js
 
 const sum=(a,b) =>{
-    console.log(a+b);
+    console.log(a+b)
 };
 
   // sum(3,7);
