@@ -5,4 +5,4 @@ let newarr=arr.filter((val) => {
     return val>90;
 })
 
-console.log(newarr)
+console.log(newarr);
