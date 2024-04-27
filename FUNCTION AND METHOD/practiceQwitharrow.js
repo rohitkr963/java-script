@@ -11,4 +11,4 @@ const countvowel=(str) =>{
     console.log(count);
 }
 
-countvowel('skjadfaknvc');
+countvowel('skjadfaknvc')
