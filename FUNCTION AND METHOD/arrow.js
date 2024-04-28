@@ -31,7 +31,7 @@ const mul=(a,b) =>
 
 const mul1=(a,b) =>
 {
-    return a*b;
+    return a*b
 };
 
  mul1(3,5);
