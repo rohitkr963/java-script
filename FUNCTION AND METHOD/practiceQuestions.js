@@ -9,7 +9,7 @@ function countvowel(str)
         }
 
     }
-    console.log(count);
+    console.log(count)
 }
 
 countvowel('rohitkumar');
