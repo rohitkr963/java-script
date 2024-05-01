@@ -12,4 +12,4 @@ function countvowel(str)
     console.log(count)
 }
 
-countvowel('rohitkumar');
+countvowel('rohitkumar')
