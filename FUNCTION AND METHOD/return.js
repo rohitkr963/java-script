@@ -4,5 +4,5 @@ function Rohit(x,y)
     return s;
 }
   
- let R=Rohit(6,3)
+ let R=Rohit(6,3);
  console.log(R);
