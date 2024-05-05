@@ -1,5 +1,5 @@
 let str = 'RohitKumar';
 for(let i of str)
 {
-    console.log("i=",i)
+    console.log("i=",i);
 }
