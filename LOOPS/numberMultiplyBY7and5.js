@@ -6,5 +6,5 @@ let i;
               console.log(i);      
              break;
         }
-        i=i+5
+        i=i+5;
     }
