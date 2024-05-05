@@ -2,4 +2,4 @@ let foodItems=["mango","banana","apple","lichi"];
 console.log(foodItems);
 let deletedItem=foodItems.pop();
 console.log(foodItems);
-console.log("deleted :",deletedItem)
+console.log("deleted :",deletedItem);
