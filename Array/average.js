@@ -7,6 +7,6 @@ for(let val of marks)
     sum=sum+val;
 }
 
-let avg=sum/marks.length
+let avg=sum/marks.length;
 
 console.log(`the average marks of the student is ${avg}`);
