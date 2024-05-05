@@ -6,4 +6,4 @@ while(gamenum!=username);
     username=prompt("you entered wrong number Guess again");;
 
 }
-console.log("congratulation you entered right num")
+console.log("congratulation you entered right num");
